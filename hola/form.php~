@@ -1,0 +1,26 @@
+<html><title>Formulario</title>
+<body>
+
+<H1>Formulario de envío</H1>
+
+
+<form action="insertar.php" method="post" name="form">
+			<table>
+				<tr>
+					<td align=left>Nombre:</td>
+					<td><input type="text" size=36 name="nombre"></td>
+				</tr>
+				<tr> 
+					<td align=left>Password:</td>
+					<td><input type="password" size=36 name="pw"></td>
+				</tr>
+				
+			</table>
+			<input type="reset" value="Borrar"><input type="submit" value="Insertar Datos">
+
+</form>
+
+
+
+
+</body></html>
