@@ -2,7 +2,11 @@
 include ("conexion.php");
 ?>
 
+/*
+Modificado en fecha 26/06/2016. para hacer un commit a git
+y probar que se usar github.
 
+*/
 <html><title>Formulario</title>
 <body>
 
